@@ -1,0 +1,17 @@
+Message_Length,Num_Links,Num_SpecialChars,Contains_Offer,Spam
+120,0,1,No,No
+250,2,5,Yes,Yes
+180,1,3,No,No
+300,4,8,Yes,Yes
+90,0,0,No,No
+400,5,10,Yes,Yes
+210,1,4,No,No
+350,3,7,Yes,Yes
+160,0,2,No,No
+280,2,6,Yes,Yes
+130,0,1,No,No
+420,6,12,Yes,Yes
+190,1,3,No,No
+310,3,8,Yes,Yes
+150,0,2,No,No
+360,4,9,Yes,Yes
